@@ -1,0 +1,12 @@
+C:\Users\CehDe\source\repos\ScriptHub\ScriptHub\bin\Debug\ScriptHub.exe.config
+C:\Users\CehDe\source\repos\ScriptHub\ScriptHub\bin\Debug\ScriptHub.exe
+C:\Users\CehDe\source\repos\ScriptHub\ScriptHub\bin\Debug\ScriptHub.pdb
+C:\Users\CehDe\source\repos\ScriptHub\ScriptHub\bin\Debug\MaterialSkin.dll
+C:\Users\CehDe\source\repos\ScriptHub\ScriptHub\obj\Debug\ScriptHub.csprojAssemblyReference.cache
+C:\Users\CehDe\source\repos\ScriptHub\ScriptHub\obj\Debug\ScriptHub.Form1.resources
+C:\Users\CehDe\source\repos\ScriptHub\ScriptHub\obj\Debug\ScriptHub.Properties.Resources.resources
+C:\Users\CehDe\source\repos\ScriptHub\ScriptHub\obj\Debug\ScriptHub.csproj.GenerateResource.cache
+C:\Users\CehDe\source\repos\ScriptHub\ScriptHub\obj\Debug\ScriptHub.csproj.CoreCompileInputs.cache
+C:\Users\CehDe\source\repos\ScriptHub\ScriptHub\obj\Debug\ScriptHub.csproj.CopyComplete
+C:\Users\CehDe\source\repos\ScriptHub\ScriptHub\obj\Debug\ScriptHub.exe
+C:\Users\CehDe\source\repos\ScriptHub\ScriptHub\obj\Debug\ScriptHub.pdb
